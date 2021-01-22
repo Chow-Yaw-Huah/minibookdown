@@ -1,4 +1,4 @@
-# What is Singapore name authorities?
+# What is Singapore Name Authorities?
 
 This is a list of standardised names established and maintained by National Library Board Singapore (NLB) to be used uniquely and consistently when identifying and naming entities in resource description. Name authorities are created as a means of organising information so as to facilitate discovery of information.
 
